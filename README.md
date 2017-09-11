@@ -1,6 +1,8 @@
 Dati: Draw a dataset yourself!
 ==============================
 
+Play with it live: [click here](http://60g.org/dati)
+
 ![](screenshot.png)
 
 
