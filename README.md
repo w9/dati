@@ -30,3 +30,5 @@ If you have NodeJS and [http-server](https://github.com/indexzero/http-server):
 Finally if you are Haskell master race and have [wai-app-static](https://hackage.haskell.org/package/wai-app-static):
 
     $ warp
+
+Check [here](https://gist.github.com/willurd/5720255) for other languages.
