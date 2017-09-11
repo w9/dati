@@ -12,7 +12,8 @@ I created this for testing clustering algorithms.
 How to use
 ----------
 
-Just clone this repo locally and statically serve the root folder.
+Just clone this repo locally and statically serve the root folder (which should redirect
+you to `index.html`).
 
 For example, if you have Python 2.x:
 
