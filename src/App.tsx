@@ -50,7 +50,7 @@ class App extends React.Component<AppProps, {}> {
     this.dotG.drawCircle(0, 0, 5);
     this.dotG.endFill();
 
-    this.squareT = this.app.renderer.generateTexture(this.dotG, 1);
+    this.squareT = this.app.renderer.generateTexture(this.dotG, PIXI.SCALE_MODES.NEAREST);
 
     this.container = new PIXI.Container();
     this.container.x = 0;
