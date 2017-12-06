@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/d3": "^4.10.0",
     "@types/immutability-helper": "^2.0.15",
     "@types/pixi.js": "^4.5.4",
+    "d3": "^4.10.2",
     "immutability-helper": "^2.4.0",
     "jStat": "^1.7.0",
     "pixi.js": "^4.5.6",
